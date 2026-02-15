@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Suhyeon Jeong  
-#### Frontend Developer 🎨🎇 Seoul, Repulic of Korea  
+#### Frontend Developer 🎨🎇 Seoul, Republic of Korea  
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwindcss&perline=5" alt="Tech Stack" /> <br/> <br/>
 <a href="mailto:112jshjsh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/112jshjsh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br />
